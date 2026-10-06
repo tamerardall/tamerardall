@@ -62,7 +62,7 @@ I'm currently expanding my knowledge in:
 
 Feel free to reach out if you'd like to talk about backend engineering, distributed systems, fintech, or software architecture.
 
-**LinkedIn:** `your-linkedin-url`
+**LinkedIn:** http://linkedin.com/in/tamerardal
 
 ---
 
