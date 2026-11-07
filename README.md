@@ -68,6 +68,7 @@ Some of the areas I've worked on include:
 I'm currently expanding my knowledge in:
 
 - **Go**
+- **Rust**
 - **gRPC**
 - **Distributed Systems**
 - **System Design**
