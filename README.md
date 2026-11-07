@@ -25,5 +25,5 @@ Backend engineer building event-driven financial systems with **Java & Spring Bo
 
 - [**groundwork**](https://github.com/tamerardall/groundwork): skills for AI coding agents that prevent god files and tangled layers
 - [**gadfly**](https://github.com/tamerardall/gadfly): red-teams a draft or project idea before you publish it
-- [**aritmetic-compiler**](https://github.com/tamerardall/aritmetic-compiler): lexer, Pratt parser, bytecode and stack VM in Rust
+- [**vetskill**](https://github.com/tamerardall/vetskill): find the right agent skill and see what it does before you install it
 - [**dlna-cast**](https://github.com/tamerardall/dlna-cast): mirror a Wayland desktop to a smart TV over DLNA
