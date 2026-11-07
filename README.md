@@ -15,6 +15,12 @@ Backend engineer building event-driven financial systems with **Java & Spring Bo
 
 `Java` `Spring Boot` `Kafka` `RabbitMQ` `Redis` `Oracle` `PostgreSQL` `Docker` `Kubernetes` · learning `Go` `Rust`
 
+## Latest writing
+
+- [Why Rust Stands Out in the AI Era](https://tamerardal.com.tr/writing/why-rust-stands-out-in-the-ai-era)
+- [6 Best Practices for Banking Applications Development](https://tamerardal.com.tr/writing/6-best-practices-for-banking-applications-development)
+- [Simple and Clean Queries: Using Criteria API in Java](https://tamerardal.com.tr/writing/simple-and-clean-queries-using-criteria-api-in-java)
+
 ## Selected work
 
 - [**groundwork**](https://github.com/tamerardall/groundwork): skills for AI coding agents that prevent god files and tangled layers
