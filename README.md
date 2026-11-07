@@ -12,7 +12,8 @@ I primarily work with **Java & Spring Boot**, building scalable backend services
 - 🔄 Experienced in **legacy → microservice modernization**
 - 📡 Working with **event-driven architectures and messaging systems**
 - ☁️ Interested in **distributed systems, cloud-native architectures, and Kubernetes**
-- 🧠 Currently exploring **Go, gRPC, and high-performance distributed systems**
+- 🧠 Currently exploring **Go, Rust, gRPC, and high-performance distributed systems**
+- 🛠️ Building open-source tooling for **AI coding agents** on the side
 - 🌍 Based in Türkiye
 
 ## 🛠️ Tech Stack
@@ -28,12 +29,18 @@ I primarily work with **Java & Spring Boot**, building scalable backend services
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
+
+**Languages**
+
+`Java` (main) · `Python` · `Go` · `Rust` · `TypeScript`
 
 **Backend**
 
-`Java` · `Spring Boot` · `Spring Security` · `JPA / Hibernate` · `REST APIs` · `gRPC` · `Protocol Buffers`
+`Spring Boot` · `Spring Security` · `JPA / Hibernate` · `REST APIs` · `gRPC` · `Protocol Buffers`
 
 **Messaging & Distributed Systems**
 
@@ -63,12 +70,25 @@ Some of the areas I've worked on include:
 - High-throughput messaging and asynchronous processing
 - Kubernetes migration and containerized services
 
+## 🧪 Open Source & Side Projects
+
+| Project | What it does |
+| --- | --- |
+| [**groundwork**](https://github.com/tamerardall/groundwork) | Skills for AI coding agents that reduce structural AI slop: no god files, separated layers, module-based Java package structure |
+| [**gadfly**](https://github.com/tamerardall/gadfly) | A Claude Code skill that red-teams a draft or project idea before you publish it |
+| [**vetskill**](https://github.com/tamerardall/vetskill) | Find the right agent skill and see what it does before you install it |
+| [**aritmetic-compiler**](https://github.com/tamerardall/aritmetic-compiler) | An arithmetic compiler in Rust: lexer, Pratt parser, bytecode, stack VM |
+| [**dlna-cast**](https://github.com/tamerardall/dlna-cast) | Mirror or extend a Linux (Wayland) desktop to a smart TV over DLNA, with sound |
+| [**SS-Shading-Adjust**](https://github.com/tamerardall/SS-Shading-Adjust) | Rust-based look adjustments (water, ground tint, lava glow) for Ship of Harkinian as a small `.o2r` mod |
+| [**video-downloader**](https://github.com/tamerardall/video-downloader) | Self-hosted, ad-free video downloader with an iPhone Shortcut, powered by yt-dlp |
+| [**instagram-unfollowers**](https://github.com/tamerardall/instagram-unfollowers) | Paste-in-console panel that shows who doesn't follow you back |
+
 ## 🌱 Currently Learning
 
 I'm currently expanding my knowledge in:
 
 - **Go**
-- **Rust**
+- **Rust** (compilers, VMs, systems programming)
 - **gRPC**
 - **Distributed Systems**
 - **System Design**
