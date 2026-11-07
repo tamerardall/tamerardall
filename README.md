@@ -103,21 +103,17 @@ Feel free to reach out if you'd like to talk about backend engineering, distribu
 ## 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=tamerardall&show_icons=true&count_private=true&theme=null" alt="GitHub Statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamerardall&layout=compact&theme=null" alt="Most used languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=tamerardall&show_icons=true&count_private=true" alt="GitHub Statistics" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tamerardall&layout=compact" alt="Most used languages" />
 </p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamerardall&theme=null" alt="GitHub Streak" />
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
-<img src="https://github-profile-trophy.vercel.app/?username=tamerardall" alt="trophy" />
+<img src="https://ghchart.rshah.org/tamerardall" alt="GitHub contribution graph" />
 
-## 📈 GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tamerardall&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
-
-<img src="https://profile-counter.glitch.me/tamerardall/count.svg?" alt="visitors count" />
+<img src="https://komarev.com/ghpvc/?username=tamerardall&style=flat-square" alt="profile views" />
 
 ---
 
